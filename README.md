@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cleoso
 - 👀 I’m interested in Machine Learning, Java, Python, Data analytics, and full stack developement
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python, JavaScript, and Java
 - 💞️ I’m looking to collaborate on anything that will provide me more skills in the coding world
 - 📫 How to reach me chester.n.leoso@gmail.com
